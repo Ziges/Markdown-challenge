@@ -35,5 +35,5 @@ Never trust your friends' dad's cooking.
 #### TL;DR...or...Too long; Didn't read 
 Don't eat Thai papaya salad if you can't handle spicy food! 
 
-<< [previous](https://github.com/Ziges/markdown-challenge) || Dimitri Szygowski || [next](https://github.com/DeRooDirk/markdown-challenge) >>
+<< [previous](https://github.com/chadriae/markdown-challenge) || Dimitri Szygowski || [next](https://github.com/DeRooDirk/markdown-challenge) >>
 
